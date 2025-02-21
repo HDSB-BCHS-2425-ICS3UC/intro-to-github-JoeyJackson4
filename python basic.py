@@ -1,3 +1,7 @@
+#My name is Joey
+#Date motified: 2/20/2025 2:19pm
+#Discription: The Phyton Basics.
+
 """"
 print(2+2)
 print("2")
@@ -30,11 +34,11 @@ print(bool(logged_in + logged_out))
 
 
 """
-
+"""
 print("Please enter your name: ")
 name = input()
 print("Your name is:" + name)
-
+"""
 name = input("Please enter your name: ")
 print("Your name is:" + name)
 
@@ -42,3 +46,5 @@ age = int(input("please enter your age: "))
 #print ("please enter your age: ")
 #age = int(input())
 print(age)
+
+
